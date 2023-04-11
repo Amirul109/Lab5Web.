@@ -15,7 +15,9 @@
 ![Screenshot (6)](https://user-images.githubusercontent.com/116171779/231137106-95910244-eec4-4ed8-b014-8e5a8638aeb2.png)
 
 
-- implementasi pemanggilan class library
+- implementasi pemanggilan class library dari form
+
+![Screenshot (7)](https://user-images.githubusercontent.com/116171779/231140064-438cb099-ac01-461e-a325-2030c33b986d.png)
 
 
 - koneksi database 

@@ -6,7 +6,7 @@
 
 
 
-- pendefinisian  dan pemanggilan class
+# pendefinisian  dan pemanggilan class
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/116171779/231131715-2b9d523a-afd4-4fd7-9857-f85b252396d0.png)
 
@@ -16,7 +16,7 @@
 * Selanjutnya, kita membuat objek "mobil1" dan "mobil2" dari class "Mobil" menggunakan perintah "new".
 * Kemudian, kita memanggil method "getInfo", "jalan", dan "stop" dari objek "mobil1" dan "mobil2", sehingga akan mengeluarkan output sesuai dengan method yang dipanggil.
 
-- class library untuk form
+# class library untuk form
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/116171779/231137106-95910244-eec4-4ed8-b014-8e5a8638aeb2.png)
 
@@ -27,7 +27,7 @@
 * Form memiliki empat input field untuk menginputkan data mahasiswa, yaitu nama, NIM, jurusan, dan semester.
 * Terakhir, form memiliki tombol "Submit" untuk mengirimkan data yang telah diinputkan.
 
-- implementasi pemanggilan class library dari form
+# implementasi pemanggilan class library dari form
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/116171779/231140064-438cb099-ac01-461e-a325-2030c33b986d.png)
 
@@ -38,7 +38,7 @@
 * Terakhir, kita menampilkan data yang telah diinputkan menggunakan perintah "echo".
 
 
-- koneksi database 
+# koneksi database 
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/116171779/231141519-fa1d8f6e-5f61-45df-8e59-2e16c6b173c9.png)
 

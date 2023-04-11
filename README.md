@@ -1,14 +1,15 @@
 # Lab5Web.
 
--nama  : Amirul Mu'minin
--nim   : 312110109
--Kelas : Ti.21.C2
+- nama  : Amirul Mu'minin
+- nim   : 312110109
+- Kelas : Ti.21.C2
 
 
 
 - pendefinisian  dan pemanggilan class
 
-![Screenshot (4)](https://user-images.githubusercontent.com/116171779/231130565-a33bbd0f-335f-4122-b032-6d83fc088bf8.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/116171779/231131715-2b9d523a-afd4-4fd7-9857-f85b252396d0.png)
+
 
 
 - class library untuk form

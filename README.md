@@ -1,8 +1,8 @@
 # Lab5Web.
 
-- nama  : Amirul Mu'minin
-- nim   : 312110109
-- Kelas : Ti.21.C2
+                                 # nama  : Amirul Mu'minin  
+                                 # nim   : 312110109
+                                 # Kelas : Ti.21.C2
 
 
 
